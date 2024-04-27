@@ -1,0 +1,117 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+#banner {
+	height: 400px;
+	width: 100%
+}
+
+h1 {
+
+	
+	
+}
+
+h2 {
+	text-align: center; font-size: 35px; color: green; border: 10px solid;
+	height: 50px; padding: 15px; margin-left: 450px; margin-right: 450px;
+}
+
+h3 {
+	font-size: 22px; font-weight: bold; color: green; text-align: center;
+}
+
+h4 {
+	font-size: 22px; font-weight: bold; color: green;
+}
+
+p {
+	font-size: 20px; text-align: center;
+}
+
+i {
+	font-style: italic; color: red;
+}
+
+b{
+	font-weight: bold;
+}
+
+#origem {
+	text-align: center; font-size: 20px;
+}
+
+.itens{
+	font-size: 20px; font-style: italic;
+}
+
+.principal {
+	background: lightgrey; padding: 30px;
+}
+
+.lista {
+	padding: 30px;
+}
+
+.banner2 {
+	height: 300px;
+	width: 40%;
+	margin-left: 500px;
+	margin-top: -500px;
+}
+
+.banner3 {
+	height: 300px;
+	width: 40%;
+	margin-left: 500px;
+	margin-top: -250px;
+
+}
+
+ul {
+	list-style-type: disc;
+}
+
+/* definições para a página habito */
+
+header {
+	background: lightgrey;
+	padding: 1px 0;
+
+}
+
+.logo {
+	height: 130px;
+	width: 15%;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 65px;
+	right: 0px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+ 
+nav a {
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	font-style: 22px;
+	text-decoration: none;
+}
+
+
